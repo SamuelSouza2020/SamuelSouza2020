@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho nos meus projetos da Engine Unity
-- 🌱 Estudo c#, unity, photon e banco de dados
+- 🌱 Estudo unity, banco de dados e inglês
 - 😄 Pronouns: ele, dele
 
 ##
