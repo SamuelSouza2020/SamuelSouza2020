@@ -1,11 +1,11 @@
 ## Olá! meu nome é Samuel
 
 
-Here are some ideas to get you started:
+Aqui estão algumas ideias para iniciar:
 
-- 🔭 Hoje trabalho nos meus projetos da Engine Unity
-- 🌱 Estudo unity, banco de dados e inglês
-- 😄 Pronouns: ele, dele
+- 🎓 Hoje desenvolvo meus projetos da Engine Unity e estou começando a segunda graduação em Analise e Desenvolvimento de Sistemas
+- 📄 Estudo unity/c#(sharp), banco de dados e inglês
+- 🔰 Principal foco C#(Sharp)
 
 ##
 
