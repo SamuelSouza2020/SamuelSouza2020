@@ -3,7 +3,7 @@
 
 Aqui estão algumas ideias para iniciar:
 
-- 🎓 Hoje desenvolvo meus projetos da Engine Unity e estou começando a segunda graduação em Analise e Desenvolvimento de Sistemas
+- 🎓 Desenvolvedor Unity e estudante de ADS.
 - 📄 Estudo unity/c#(sharp), banco de dados e inglês
 - 🔰 Principal foco C#(Sharp)
 
