@@ -3,8 +3,8 @@
 
 Aqui estão algumas ideias para iniciar:
 
-- 🎓 Desenvolvedor Unity e estudante de ADS.
-- 📄 Estudo unity/c#(sharp), banco de dados e inglês
+- 🎓 Desenvolvedor de Jogos e Backend.
+- 📄 Linguagens de Programação: C#(Sharp), JavaScript, TypeScript.
 - 🔰 Principal foco C#(Sharp)
 
 ##
