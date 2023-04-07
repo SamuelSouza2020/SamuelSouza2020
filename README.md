@@ -26,11 +26,8 @@ Aqui estão algumas ideias para iniciar:
 </div>
   
   ##
-  
 <div>
-  <button onclick="window.open('https://www.linkedin.com/in/samuel-souza-03b637142/', '_blank');">LinkedIn</button>
+  <a href="https://www.linkedin.com/in/samuel-souza-03b637142/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
-
-
-
-
