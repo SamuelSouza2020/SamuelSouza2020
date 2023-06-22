@@ -4,7 +4,7 @@
 Aqui estão algumas ideias para iniciar:
 
 - 🎓 Desenvolvedor de Jogos e Backend.
-- 📄 Linguagens de Programação: C#(Sharp), JavaScript, TypeScript.
+- 📄 Linguagens de Programação: C#(Sharp), JavaScript.
 - 🔰 Principal foco C#(Sharp)
 
 ##
