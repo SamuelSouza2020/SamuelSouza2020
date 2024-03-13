@@ -3,9 +3,10 @@
 
 Aqui estão algumas ideias para iniciar:
 
-- 🎓 Desenvolvedor de Jogos e Backend.
+- 💻 Desenvolvedor de Jogos e Backend.
 - 📄 Linguagens de Programação: C#(Sharp), JavaScript.
 - 🔰 Principal foco C#(Sharp)
+- 🎓 Sou formado em ADS e Ciência da Computação
 
 ##
   <div style="display: inline_block"><br>
